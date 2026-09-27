@@ -20,7 +20,9 @@ Self-taught Systems & DevOps Engineer with hands-on experience in GitOps, Docker
 </a>
 
 <div align="center">
+
 [![GitHub Streak](./profile/streak.svg)](./profile/streak.svg)
+
 </div>
 
 ---
