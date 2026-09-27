@@ -9,10 +9,7 @@ Self-taught Systems & DevOps Engineer with hands-on experience in GitOps, Docker
     />
     <img height="200" align="center" src="./profile/stats.svg" />
   </picture>
-
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  
   <picture>
     <source
       srcset="./profile/top-langs.svg"
